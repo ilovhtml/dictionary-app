@@ -3,6 +3,7 @@
 A clean and modern front-end application that allows users to search for English word definitions using the free [DictionaryAPI](https://dictionaryapi.dev/ "null"). This project was built to practice core JavaScript concepts, including asynchronous API calls, DOM manipulation, and custom UI design.
 
 ![[Pasted image 20250908173921.png]]
+<img src="https://github.com/ilovhtml/dictionary-app/blob/main/Pasted%20image%2020250908173921.png?raw=true">
 
 ## Features
 
